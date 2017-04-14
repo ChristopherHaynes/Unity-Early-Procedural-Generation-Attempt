@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{28F16EDD-F56A-66E8-6D85-B38372F38D44}") = "Procedural Cave Generation", "Assembly-CSharp.csproj", "{D4622B78-F2ED-B37E-C599-D5444C0F123A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4622B78-F2ED-B37E-C599-D5444C0F123A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4622B78-F2ED-B37E-C599-D5444C0F123A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4622B78-F2ED-B37E-C599-D5444C0F123A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4622B78-F2ED-B37E-C599-D5444C0F123A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
